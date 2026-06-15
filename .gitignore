@@ -1,0 +1,32 @@
+# Env files
+.env
+.env.*
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# SQLite and local databases
+*.sqlite
+*.db
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+
+# Streamlit specific
+.streamlit/
+
+# OS files
+.DS_Store
